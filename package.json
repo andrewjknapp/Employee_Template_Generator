@@ -1,29 +1,28 @@
 {
-  "name": "unit10hw",
+  "name": "employee_template_generator",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
+  "description": "Enter information about project team to generate an html page describing team and role",
   "main": "app.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "test": "jest --verbose test/*"
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/andrewjknapp/Employee_Template_Generator.git"
   },
-  "author": "",
+  "author": "andrewjknapp",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/andrewjknapp/Employee_Template_Generator/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "https://github.com/andrewjknapp/Employee_Template_Generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  },
-  "devDependencies": {
-    "jest": "^24.8.0"
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0"
   }
 }
