@@ -1,6 +1,7 @@
+
 const fs = require('fs');
 const question = require('./lib/question');
-const pageMaker = requre('./lib/pageMaker');
+const pageMaker = require('./lib/pageMaker');
 
 question.questions
     .then(
