@@ -1,5 +1,3 @@
-
-const fs = require('fs');
 const question = require('./lib/question');
 const pageMaker = require('./lib/pageMaker');
 

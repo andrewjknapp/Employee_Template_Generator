@@ -1,0 +1,13 @@
+<section class="member">
+    <div class="memHeader">
+        <h2>*%</h2>
+        <h3><i class="fas fa-*%"></i> *%</h3>
+    </div>
+    <div class="memBody">
+        <div class="infoBox">
+            <div class="memInfo">ID: *%</div>
+            <div class="memInfo">email: <a href="mailto:*%">*%</a></div>
+            <div class="memInfo">*%</div>
+        </div>
+    </div>
+</section>
