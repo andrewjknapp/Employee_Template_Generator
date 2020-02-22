@@ -49,8 +49,3 @@ npm test
 <img src="https://avatars.githubusercontent.com/u/16299570?" alt="User Profile Image" height="100">
 
 If you have any questions about the repo, open an issue or contact [andrewjknapp](https://github.com/andrewjknapp) directly at ajknapp2015@gmail.com
-
-## To Do
-- Make entry for id
-- Ask for engineer or intern before starting their questioning
-- Show name of each when questioning
